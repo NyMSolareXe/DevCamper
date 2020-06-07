@@ -29,9 +29,7 @@ To seed the database with users, bootcamps, courses and reviews with data from t
 ```
 # Destroy All Data
 node seeder -d
-```
 
-```
 # Import All Data
 node seeder -i
 ```
